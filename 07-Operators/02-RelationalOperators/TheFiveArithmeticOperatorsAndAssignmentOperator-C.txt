@@ -1,0 +1,6 @@
+cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\02-RelationalOperators
+cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\02-RelationalOperators RelationalOperators-C.c
+
+link.exe RelationalOperators-C.obj
+
+RelationalOperators-C.exe

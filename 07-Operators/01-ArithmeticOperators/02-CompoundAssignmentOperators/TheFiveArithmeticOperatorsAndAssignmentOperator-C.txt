@@ -1,0 +1,6 @@
+cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\01-ArithmeticOperators\02-CompoundAssignmentOperators
+cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\01-ArithmeticOperators\02-CompoundAssignmentOperators CompoundAssignmentOperators-C.c
+
+link.exe CompoundAssignmentOperators-C.obj
+
+CompoundAssignmentOperators-C.exe

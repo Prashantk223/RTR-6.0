@@ -1,0 +1,6 @@
+cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\04-BitwiseOperators\03-BitwiseXOR
+cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\04-BitwiseOperators\03-BitwiseXOR BitwiseXOR-C.c
+
+link.exe BitwiseXOR-C.obj
+
+BitwiseXOR-C.exe

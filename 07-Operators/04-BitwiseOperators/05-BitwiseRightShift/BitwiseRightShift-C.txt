@@ -1,0 +1,6 @@
+cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\04-BitwiseOperators\05-BitwiseRightShift
+cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\04-BitwiseOperators\05-BitwiseRightShift BitwiseRightShift-C.c
+
+link.exe BitwiseRightShift-C.obj
+
+BitwiseRightShift-C.exe
