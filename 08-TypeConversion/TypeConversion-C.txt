@@ -1,0 +1,6 @@
+cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\08-TypeConversion
+cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\08-TypeConversion TypeConversion-C.c
+
+link.exe TypeConversion-C.obj
+
+TypeConversion-C.exe
