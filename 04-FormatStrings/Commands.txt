@@ -1,0 +1,4 @@
+cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\04-FormatStrings
+cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\04-FormatStrings FormatStrings.c
+
+link.exe FormatStrings.obj
