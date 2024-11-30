@@ -1,6 +1,0 @@
-cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\04-BitwiseOperators\02-BitwiseOR
-cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\04-BitwiseOperators\02-BitwiseOR BitwiseOR-C.c
-
-link.exe BitwiseOR-C.obj
-
-BitwiseOR-C.exe

@@ -1,6 +1,0 @@
-cd C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\01-ArithmeticOperators\03-IncrementDecrementOperators
-cl.exe /c /EHsc /I C:\RTR-6.0\MyProjects\C_Assignment\Coding_Assignment\07-Operators\01-ArithmeticOperators\03-IncrementDecrementOperators IncrementDecrementOperators-C.c
-
-link.exe IncrementDecrementOperators-C.obj
-
-IncrementDecrementOperators-C.exe
